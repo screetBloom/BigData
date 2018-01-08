@@ -6,14 +6,14 @@
 ![](https://img.shields.io/badge/BigData-teacher%20%7C%20me%20%20%7C%20books-orange.svg)
 
 
-大数据部分
+###  大数据部分
 
-1.jdk环境配置
+-  jdk环境配置
 
-2.免密码ssh配置
+-  免密码ssh配置
 
-3.Hadoop配置（腾讯云内外网区别的坑）
+-  Hadoop配置（腾讯云内外网区别的坑）
 
-4.base配置
+-  base配置
 
 
